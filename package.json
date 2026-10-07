@@ -34,7 +34,7 @@
     "lodash": "^4.18.1",
     "mocha": "^12.0.1",
     "moment": "^2.29.4",
-    "nodemailer": "^9.1.1",
+    "nodemailer": "^10.0.9",
     "numbro": "^2.2.0",
     "p-queue": "^6.4.0",
     "patch-package": "^8.0.1",
@@ -51,7 +51,7 @@
     "twig": "^3.0.0",
     "typescript": "^3.9.2",
     "winston": "^3.2.1",
-    "ws": "^7.5.12",
+    "ws": "^7.5.13",
     "zero-fill": "^2.2.3"
   },
   "engines": {
